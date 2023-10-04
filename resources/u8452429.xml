@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>04278cgm a2200805Ii 4500</marc:leader>
+    <marc:controlfield tag="001">u8452429</marc:controlfield>
+    <marc:controlfield tag="003">SIRSI</marc:controlfield>
+    <marc:controlfield tag="005">20200207115715.0</marc:controlfield>
+    <marc:controlfield tag="006">m     o  c        </marc:controlfield>
+    <marc:controlfield tag="007">cr mna||||||||</marc:controlfield>
+    <marc:controlfield tag="007">vz mzazuu</marc:controlfield>
+    <marc:controlfield tag="008">190219s2018    xxu082        o   mleng d</marc:controlfield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">TXA</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+      <marc:subfield code="e">pn</marc:subfield>
+      <marc:subfield code="c">TXA</marc:subfield>
+      <marc:subfield code="d">TXA</marc:subfield>
+      <marc:subfield code="d">OCLCF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)1086315069</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">n-us-mi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Detroit 48202 :</marc:subfield>
+      <marc:subfield code="b">conversations along a postal route / New Day Films ; a Grito Productions film ; director, producer, Pam Sporn.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="0">
+      <marc:subfield code="a">Conversations along a postal route</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">[United States] :</marc:subfield>
+      <marc:subfield code="b">[Grito Productions],</marc:subfield>
+      <marc:subfield code="c">[2018]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="2">
+      <marc:subfield code="a">[United States] :</marc:subfield>
+      <marc:subfield code="b">New Day Films</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 online resource (1 video file (82 min.)) :</marc:subfield>
+      <marc:subfield code="b">sound, color with black and white sequences</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">two-dimensional moving image</marc:subfield>
+      <marc:subfield code="b">tdi</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">video</marc:subfield>
+      <marc:subfield code="b">v</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">online resource</marc:subfield>
+      <marc:subfield code="b">cr</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="b">c</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="538" ind1=" " ind2=" ">
+      <marc:subfield code="a">Mode of access: World Wide Web.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">Closed captioned.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">In English with English and Spanish subtitles.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Description based on online resource; title from title frames (viewed February 10, 2020)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="511" ind1="0" ind2=" ">
+      <marc:subfield code="a">Interviewee: Wendell Watkins.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="508" ind1=" " ind2=" ">
+      <marc:subfield code="a">Editor, Kathryn Barnier ; cinematography, Tami Gold, Pam Sporn ; composer, Tom Phillips.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">"...produced by Grito Productions, which is solely responsible for its content."</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A veteran mailman provides an intimate glimpse of Detroiters' resistance to boom and bust capitalism and structural racism. We listen in on his conversations with his customers - the resilient Detroiters who share stories of resistance: pushing back against racial segregation in housing; challenging industrial and political disinvestment; and living on reduced pensions as a result of the 2014 municipal bankruptcy. Our characters share stories of hope and propose creative ways to re-imagine an inclusive, productive, equitable and re-invigorated city.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">Access restricted to UVA community only.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">African Americans</marc:subfield>
+      <marc:subfield code="z">Michigan</marc:subfield>
+      <marc:subfield code="z">Detroit</marc:subfield>
+      <marc:subfield code="x">Social conditions.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">African Americans</marc:subfield>
+      <marc:subfield code="z">Michigan</marc:subfield>
+      <marc:subfield code="z">Detroit</marc:subfield>
+      <marc:subfield code="x">Economic conditions.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Urban renewal</marc:subfield>
+      <marc:subfield code="z">Michigan</marc:subfield>
+      <marc:subfield code="z">Detroit</marc:subfield>
+      <marc:subfield code="x">History.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Detroit (Mich.)</marc:subfield>
+      <marc:subfield code="x">Economic conditions.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Detroit (Mich.)</marc:subfield>
+      <marc:subfield code="x">Social conditions.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Detroit (Mich.)</marc:subfield>
+      <marc:subfield code="x">Race relations</marc:subfield>
+      <marc:subfield code="x">History.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">African Americans</marc:subfield>
+      <marc:subfield code="x">Economic conditions.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst00799599</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">African Americans</marc:subfield>
+      <marc:subfield code="x">Social conditions.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst00799698</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Economic history.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst00901974</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Race relations.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01086509</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Social conditions.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01919811</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Urban renewal.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01162536</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="7">
+      <marc:subfield code="a">Michigan</marc:subfield>
+      <marc:subfield code="z">Detroit.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01205010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Documentary films.</marc:subfield>
+      <marc:subfield code="2">lcgft</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Nonfiction films.</marc:subfield>
+      <marc:subfield code="2">lcgft</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Feature films.</marc:subfield>
+      <marc:subfield code="2">lcgft</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Internet videos.</marc:subfield>
+      <marc:subfield code="2">lcgft</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Video recordings for the hearing impaired.</marc:subfield>
+      <marc:subfield code="2">lcgft</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Documentary films.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01710390</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Feature films.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01710384</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">History.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01411628</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Internet videos.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01750214</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Nonfiction films.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01710269</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Video recordings for the hearing impaired.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01710450</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sporn, Pam,</marc:subfield>
+      <marc:subfield code="e">film director,</marc:subfield>
+      <marc:subfield code="e">film producer,</marc:subfield>
+      <marc:subfield code="e">cinematographer.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Barnier, Kathryn,</marc:subfield>
+      <marc:subfield code="e">film editor.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gold, Tami,</marc:subfield>
+      <marc:subfield code="e">cinematographer.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Palmer, Amilca,</marc:subfield>
+      <marc:subfield code="e">film producer.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Phillips, Tom,</marc:subfield>
+      <marc:subfield code="e">composer.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Watkins, Wendell,</marc:subfield>
+      <marc:subfield code="e">interviewee.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Grito Productions,</marc:subfield>
+      <marc:subfield code="e">production company.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">New Day Films,</marc:subfield>
+      <marc:subfield code="e">film distributor.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://www.newday.com/streaming/index.php?film=DET-01&amp;license=SYSJ-AK3E-5H54</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://www.newday.com/streaming/index.php?film=DET-02&amp;license=SYSJ-AK3E-5H54</marc:subfield>
+      <marc:subfield code="z">Includes Spanish subtitles.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="994" ind1=" " ind2=" ">
+      <marc:subfield code="a">Z0</marc:subfield>
+      <marc:subfield code="b">VA@</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="596" ind1=" " ind2=" ">
+      <marc:subfield code="a">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">XX(8452429.1)</marc:subfield>
+      <marc:subfield code="w">WEB</marc:subfield>
+      <marc:subfield code="c">1</marc:subfield>
+      <marc:subfield code="i">8452429-1001</marc:subfield>
+      <marc:subfield code="l">INTERNET</marc:subfield>
+      <marc:subfield code="m">UVA-LIB</marc:subfield>
+      <marc:subfield code="r">Y</marc:subfield>
+      <marc:subfield code="s">Y</marc:subfield>
+      <marc:subfield code="t">INTERNET</marc:subfield>
+      <marc:subfield code="u">2/5/2020</marc:subfield>
+      <marc:subfield code="x">NON-OCLC</marc:subfield>
+      <marc:subfield code="z">RUSH</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02574cas a2200565 a 4500</marc:leader>
+    <marc:controlfield tag="001">u6287319</marc:controlfield>
+    <marc:controlfield tag="003">SIRSI</marc:controlfield>
+    <marc:controlfield tag="005">20130131161427.0</marc:controlfield>
+    <marc:controlfield tag="006">m    |   j |      </marc:controlfield>
+    <marc:controlfield tag="007">cr||n||||||||n</marc:controlfield>
+    <marc:controlfield tag="008">750123c18899999dcuar p s    f0    0eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)560906637</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">n-us---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">TGPSM</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UtOrBLW</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="110" ind1="2" ind2=" ">
+      <marc:subfield code="a">American Historical Association.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Annual report of the American Historical Association</marc:subfield>
+      <marc:subfield code="h">[electronic resource].</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Washington [D.C.] :</marc:subfield>
+      <marc:subfield code="b">G.P.O.,</marc:subfield>
+      <marc:subfield code="c">1890-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume :</marc:subfield>
+      <marc:subfield code="b">maps ;</marc:subfield>
+      <marc:subfield code="c">23-28 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="310" ind1=" " ind2=" ">
+      <marc:subfield code="a">Annual</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="362" ind1="0" ind2=" ">
+      <marc:subfield code="a">1889-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="b">c</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">online resource</marc:subfield>
+      <marc:subfield code="b">cr</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Description based on: 1918 (v. 2).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Some issues have title: Annual report.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Some issues also have a distinctive title.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Part of the illustrative matter is folded.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Reproduction of original from The American Antiquarian Society.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Sabin no. 98425.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="506" ind1=" " ind2=" ">
+      <marc:subfield code="a">Access restricted to subscribing institutions.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="555" ind1=" " ind2=" ">
+      <marc:subfield code="a">Index to the Writings on American history 1902-1940; General index to Papers and Annual reports, 1884-1914, in 1914, v. 2.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="550" ind1=" " ind2=" ">
+      <marc:subfield code="a">Vols. for 19 - published by the Smithsonian Institution Press.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="550" ind1=" " ind2=" ">
+      <marc:subfield code="a">Vols. for &lt;2002-&gt; published by the American Historical Association.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="515" ind1=" " ind2=" ">
+      <marc:subfield code="a">Vols. for 19 -19 called also v. 1 of the Association's Proceedings.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="515" ind1=" " ind2=" ">
+      <marc:subfield code="a">Reports for 1927-1928 issued in combined form.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="515" ind1=" " ind2=" ">
+      <marc:subfield code="a">Some reports issued in 2 or more v.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="515" ind1=" " ind2=" ">
+      <marc:subfield code="a">Issued also with the numbering of the Congressional series.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">Supplements issued as separate vols., 1896-1919 ; the 1st supplemental v. for each year entitled Writings in American history.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="580" ind1=" " ind2=" ">
+      <marc:subfield code="a">Supplement to: Perspectives (Washington, D.C. : 1984), &lt;1999&gt;.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2="0">
+      <marc:subfield code="a">American Historical Association</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">History</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Historiography</marc:subfield>
+      <marc:subfield code="z">United States</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">United States</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Smithsonian Institution.</marc:subfield>
+      <marc:subfield code="b">Press.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">American Historical Association.</marc:subfield>
+      <marc:subfield code="t">Annual report.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="1">
+      <marc:subfield code="u">http://proxy01.its.virginia.edu/login?url=http://galenet.galegroup.com/servlet/Sabin?af=RN&amp;ae=CY112367389&amp;srchtp=a&amp;ste=14&amp;q=viva_uva</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">Postbellum.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">2012AH91300.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="596" ind1=" " ind2=" ">
+      <marc:subfield code="a">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">XX(6287319.1)</marc:subfield>
+      <marc:subfield code="w">WEB</marc:subfield>
+      <marc:subfield code="c">1</marc:subfield>
+      <marc:subfield code="i">6287319-1001</marc:subfield>
+      <marc:subfield code="l">INTERNET</marc:subfield>
+      <marc:subfield code="m">UVA-LIB</marc:subfield>
+      <marc:subfield code="r">N</marc:subfield>
+      <marc:subfield code="s">Y</marc:subfield>
+      <marc:subfield code="t">INTERNET</marc:subfield>
+      <marc:subfield code="u">6/13/2014</marc:subfield>
+      <marc:subfield code="x">NON-OCLC</marc:subfield>
+      <marc:subfield code="1">2018UVALIB</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

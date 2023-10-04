@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02455cam a22004578i 4500</marc:leader>
+    <marc:controlfield tag="001">u7771467</marc:controlfield>
+    <marc:controlfield tag="003">SIRSI</marc:controlfield>
+    <marc:controlfield tag="005">20181019140549.0</marc:controlfield>
+    <marc:controlfield tag="007">cr una---unuuu</marc:controlfield>
+    <marc:controlfield tag="008">180912s2018    vau      b   s001 0 eng  </marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">  2018041468</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="019" ind1=" " ind2=" ">
+      <marc:subfield code="a">1035360731</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780813941615</marc:subfield>
+      <marc:subfield code="q">(cloth)</marc:subfield>
+      <marc:subfield code="q">(alk. paper)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">081394161X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780813941622</marc:subfield>
+      <marc:subfield code="q">(paperback)</marc:subfield>
+      <marc:subfield code="q">(alk. paper)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0813941628</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">9780813941639</marc:subfield>
+      <marc:subfield code="q">(ebook)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)1035291335</marc:subfield>
+      <marc:subfield code="z">(OCoLC)1035360731</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="042" ind1=" " ind2=" ">
+      <marc:subfield code="a">pcc</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">LBSOR/DLC</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+      <marc:subfield code="c">DLC</marc:subfield>
+      <marc:subfield code="d">OCLCO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2="0">
+      <marc:subfield code="a">PN849.C3</marc:subfield>
+      <marc:subfield code="b">R75 2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="0">
+      <marc:subfield code="a">809/.89729</marc:subfield>
+      <marc:subfield code="2">23</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Rodríguez Navas, Ana Belén,</marc:subfield>
+      <marc:subfield code="d">1977-</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Idle talk, deadly talk :</marc:subfield>
+      <marc:subfield code="b">the uses of gossip in Caribbean literature /</marc:subfield>
+      <marc:subfield code="c">Ana Rodríguez Navas.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Charlottesville ;</marc:subfield>
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">University of Virginia Press,</marc:subfield>
+      <marc:subfield code="c">[2018]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="4">
+      <marc:subfield code="c">©2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">x, 293 pages, 3 unnumbered pages ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="b">n</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="b">nc</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">New World studies</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">"A study of gossip's place in the literature of the multilingual Caribbean. Studying recent Hispanic Caribbean texts alongside diasporic literature and works from the region's Francophone and Anglophone traditions, Rodriguez Navas argues that the study of gossip, and especially of its hitherto unremarked status as an essentially adversarial practice, offers an important new perspective on the literature, culture, and power dynamics of the Caribbean region"--</marc:subfield>
+      <marc:subfield code="c">Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (pages 251-274) and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Introduction: gossip's embattlements -- "A mouthful of dynamite": gossip and the failure of community -- "Parallel versions": gossip, investigation, and identity -- "An international scandal": gossip, dissent, and the public sphere -- "Paginas en blanco": the legacy of the Caribbean gossip state -- Conclusion: radical gossip.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Caribbean literature</marc:subfield>
+      <marc:subfield code="x">History and criticism.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Gossip in literature.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1=" " ind2="0">
+      <marc:subfield code="a">New World studies.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://doi.org/10.32881/book1</marc:subfield>
+      <marc:subfield code="z">Read Online at Aperio.press</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="994" ind1=" " ind2=" ">
+      <marc:subfield code="a">Z0</marc:subfield>
+      <marc:subfield code="b">VA@</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">SPECIAL COLLECTIONS: Original gray cloth. Gift of the University of Virginia Press, October 2018.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="596" ind1=" " ind2=" ">
+      <marc:subfield code="a">2 10</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">PN849 .C3 R75 2018</marc:subfield>
+      <marc:subfield code="w">LC</marc:subfield>
+      <marc:subfield code="i">X031822371</marc:subfield>
+      <marc:subfield code="l">STACKS</marc:subfield>
+      <marc:subfield code="m">ALDERMAN</marc:subfield>
+      <marc:subfield code="t">BOOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">PN849 .C3 R75 2018</marc:subfield>
+      <marc:subfield code="w">LC</marc:subfield>
+      <marc:subfield code="i">X032124819</marc:subfield>
+      <marc:subfield code="l">STACKS</marc:subfield>
+      <marc:subfield code="m">SPEC-COLL</marc:subfield>
+      <marc:subfield code="t">RAREBOOK</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

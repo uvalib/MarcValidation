@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>01450cam a2200313Ia 4500</leader>
+    <controlfield tag="001">u3827937</controlfield>
+    <controlfield tag="003">SIRSI</controlfield>
+    <controlfield tag="005">20020411084535.0</controlfield>
+    <controlfield tag="006">m        d        </controlfield>
+    <controlfield tag="007">cr cnu--------</controlfield>
+    <controlfield tag="008">010626m20019999dcu     si    000 0 eng d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Sirsi) o47197816</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">WCM</subfield>
+      <subfield code="c">WCM</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">PsycARTICLES</subfield>
+      <subfield code="h">[electronic resource].</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2="0">
+      <subfield code="a">Psyc articles</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Washington, D.C. :</subfield>
+      <subfield code="b">American Psychological Association,</subfield>
+      <subfield code="c">[2001-</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Provides full text access to articles from journals published by APA and allied organizations since 1988 as a search option in the Journals@Ovid Fulltext database. User must select limit to PsycARTICLES option.</subfield>
+    </datafield>
+    <datafield tag="506" ind1=" " ind2=" ">
+      <subfield code="a">Restricted to institutions with a site license.</subfield>
+    </datafield>
+    <datafield tag="516" ind1=" " ind2=" ">
+      <subfield code="a">Text (database)</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Provides full text access to articles from journals published by APA and allied organizations since 1988. Covers general psychology and specialized basic, applied, clinical, and theoretical research in psychology.</subfield>
+    </datafield>
+    <datafield tag="538" ind1=" " ind2=" ">
+      <subfield code="a">Mode of access: World Wide Web.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">1</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Psychology</subfield>
+      <subfield code="v">Databases.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Psychology</subfield>
+      <subfield code="v">Periodicals</subfield>
+      <subfield code="v">Databases.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Psychology</subfield>
+      <subfield code="x">Periodicals</subfield>
+      <subfield code="v">Indexes</subfield>
+      <subfield code="v">Databases.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">American Psychological Association.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="2">
+      <subfield code="u">http://psycnet.apa.org/?fa=db.searchPA</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">Z0</subfield>
+      <subfield code="b">VA@</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">XX(3827937.1)</subfield>
+      <subfield code="w">ALPHANUM</subfield>
+      <subfield code="c">1</subfield>
+      <subfield code="i">3827937-1001</subfield>
+      <subfield code="l">INTERNET</subfield>
+      <subfield code="m">UVA-LIB</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">INTERNET</subfield>
+      <subfield code="u">4/5/2002</subfield>
+      <subfield code="x">MEMBERCOPY</subfield>
+    </datafield>
+  </record>
+</collection>

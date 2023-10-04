@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>02401cai a2200493 a 4500</leader>
+    <controlfield tag="001">u5197223</controlfield>
+    <controlfield tag="003">SIRSI</controlfield>
+    <controlfield tag="005">20100813095918.0</controlfield>
+    <controlfield tag="006">m        e        </controlfield>
+    <controlfield tag="007">cr |||||||||||</controlfield>
+    <controlfield tag="008">941010c199u9999dcuwr dsoi    0   a2eng c</controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">  2009252450</subfield>
+    </datafield>
+    <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">37016097</subfield>
+      <subfield code="a">40456257</subfield>
+      <subfield code="a">47653332</subfield>
+      <subfield code="a">230695858</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)31252852</subfield>
+      <subfield code="z">(OCoLC)37016097</subfield>
+      <subfield code="z">(OCoLC)40456257</subfield>
+      <subfield code="z">(OCoLC)47653332</subfield>
+      <subfield code="z">(OCoLC)230695858</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">CUS</subfield>
+      <subfield code="c">CUS</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">CUS</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">NOC</subfield>
+      <subfield code="d">WAU</subfield>
+      <subfield code="d">XFF</subfield>
+      <subfield code="d">IUL</subfield>
+      <subfield code="d">MYG</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield tag="042" ind1=" " ind2=" ">
+      <subfield code="a">pcc</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">BF1</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">PsycINFO</subfield>
+      <subfield code="h">[electronic resource].</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2=" ">
+      <subfield code="i">Also known as:</subfield>
+      <subfield code="a">Psyc</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">PsychINFO</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">[Washington, D.C.] :</subfield>
+      <subfield code="b">American Psychological Association</subfield>
+    </datafield>
+    <datafield tag="310" ind1=" " ind2=" ">
+      <subfield code="a">Weekly updates</subfield>
+    </datafield>
+    <datafield tag="362" ind1="1" ind2=" ">
+      <subfield code="a">Began in 1990s?</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Title from title screen.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Database available from multiple vendors.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Contains more than 2.6 million citations and summaries of scholarly journal articles, book chapters, books, and dissertations, all in psychology and related disciplines, such as medicine, psychiatry, education, social work, law, criminology, social science, and organizational behavior, dating as far back as the 1800s.  98 percent of the covered material is peer-reviewed. Journal coverage, which spans 1887 to present, includes international material selected from more than 2,100 periodicals in more than 27 languages. Many journals are available in full-text.</subfield>
+    </datafield>
+    <datafield tag="530" ind1=" " ind2=" ">
+      <subfield code="a">Contains the equivalent of Psychological abstracts and PsycLIT database.</subfield>
+    </datafield>
+    <datafield tag="530" ind1=" " ind2=" ">
+      <subfield code="a">Also issued on CD-ROM.</subfield>
+    </datafield>
+    <datafield tag="538" ind1=" " ind2=" ">
+      <subfield code="a">Mode of access: World Wide Web.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">1</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Psychology</subfield>
+      <subfield code="v">Periodicals</subfield>
+      <subfield code="v">Indexes.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Psychology</subfield>
+      <subfield code="v">Abstracts.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Psychology</subfield>
+      <subfield code="v">Indexes.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Psychological literature</subfield>
+      <subfield code="v">Abstracts.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">American Psychological Association.</subfield>
+    </datafield>
+    <datafield tag="730" ind1="0" ind2=" ">
+      <subfield code="a">Psychological abstracts.</subfield>
+    </datafield>
+    <datafield tag="730" ind1="0" ind2=" ">
+      <subfield code="a">PsycLit database.</subfield>
+    </datafield>
+    <datafield tag="776" ind1="1" ind2=" ">
+      <subfield code="t">PsycINFO</subfield>
+      <subfield code="w">(DLC)  2001201998</subfield>
+      <subfield code="w">(OCoLC)34893713</subfield>
+    </datafield>
+    <datafield tag="776" ind1="1" ind2=" ">
+      <subfield code="t">PsycINFO</subfield>
+      <subfield code="w">(OCoLC)34261947</subfield>
+    </datafield>
+    <datafield tag="776" ind1="1" ind2=" ">
+      <subfield code="t">Psychological abstracts</subfield>
+      <subfield code="x">0033-2887</subfield>
+      <subfield code="w">(DLC)   29023479</subfield>
+      <subfield code="w">(OCoLC)1763052</subfield>
+    </datafield>
+    <datafield tag="776" ind1="1" ind2=" ">
+      <subfield code="t">PsycLit database</subfield>
+      <subfield code="x">1075-3060</subfield>
+      <subfield code="w">(DLC)   94641328</subfield>
+      <subfield code="w">(OCoLC)19613770</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://psycnet.apa.org/?fa=db.searchPI</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">Z0</subfield>
+      <subfield code="b">VA@</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">XX(5197223.1)</subfield>
+      <subfield code="w">WEB-SERL</subfield>
+      <subfield code="c">1</subfield>
+      <subfield code="i">5197223-1001</subfield>
+      <subfield code="l">INTERNET</subfield>
+      <subfield code="m">UVA-LIB</subfield>
+      <subfield code="r">N</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">INTERNET</subfield>
+      <subfield code="u">8/13/2010</subfield>
+      <subfield code="x">MEMBERCOPY</subfield>
+    </datafield>
+  </record>
+</collection>

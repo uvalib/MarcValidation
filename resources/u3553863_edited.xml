@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00882cam a2200277Ia 4500</leader>
+    <controlfield tag="001">u3553863</controlfield>
+    <controlfield tag="003">SIRSI</controlfield>
+    <controlfield tag="005">20000731090419.0</controlfield>
+    <controlfield tag="008">850614s1913    dcua         f000 0 eng c</controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">agr13000192</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">Library, U.S. Dept. of Agriculture</subfield>
+      <subfield code="c">NPL</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">GZM</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">201978</subfield>
+    </datafield>
+    <datafield tag="070" ind1="0" ind2=" ">
+      <subfield code="a">1</subfield>
+      <subfield code="b">Ag84F no.523</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2=" ">
+      <subfield code="a">S200</subfield>
+    </datafield>
+    <datafield tag="092" ind1=" " ind2=" ">
+      <subfield code="a">630.6</subfield>
+      <subfield code="b">F22 v.12</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Garner, W. W.</subfield>
+      <subfield code="q">(Wightman Wells)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Tobacco curing /</subfield>
+      <subfield code="c">by W.W. Garner.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Washington, D.C. :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture,</subfield>
+      <subfield code="c">1913.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">24 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Farmers' bulletin / United States Department of Agriculture ;</subfield>
+      <subfield code="v">no. 523</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Cover title.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Bound with other titles in series.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Tobacco curing.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Farmers' bulletin (United States. Dept. of Agriculture) ;</subfield>
+      <subfield code="v">no. 523.</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">Z0</subfield>
+      <subfield code="b">VA@</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">2</subfield>
+    </datafield>
+  </record>
+</collection>

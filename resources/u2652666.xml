@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?><marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>09266cpcpa2201693 a 4500</marc:leader>
+    <marc:controlfield tag="001">u2652666</marc:controlfield>
+    <marc:controlfield tag="003">SIRSI</marc:controlfield>
+    <marc:controlfield tag="008">000000i17081862vau                 eng d</marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="b">NUCMC MS 61-582</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(Sirsi) a2652666</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)647887541</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">VA@</marc:subfield>
+      <marc:subfield code="c">VA@</marc:subfield>
+      <marc:subfield code="e">appm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">VA@@</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="099" ind1=" " ind2=" ">
+      <marc:subfield code="a">MSS</marc:subfield>
+      <marc:subfield code="a">38-239</marc:subfield>
+      <marc:subfield code="a">38-239-a</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Gwathmey collection</marc:subfield>
+      <marc:subfield code="h">[manuscript],</marc:subfield>
+      <marc:subfield code="f">1708-1852.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cabell Gwathmey collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">170</marc:subfield>
+      <marc:subfield code="f">items.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Letters, autographs, papers, illustrations, and portraits relating to Revolutionary and early nineteenth century statesmen believed to have been assembled as an autograph collection by Julia M. Dickinson Tayloe early in the nineteenth century. Includes a U.S. War Dept. broadside, 1794 May 19.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="524" ind1=" " ind2=" ">
+      <marc:subfield code="a">Gwathmey Cabell collection, 1708-1852, Accession #38-239, 38-239-a, Special Collections Dept., University of Virginia Library, Charlottesville, Va.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="533" ind1=" " ind2=" ">
+      <marc:subfield code="a">Microfilm. Manuscripts Dept. reel no. M-559.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="535" ind1=" " ind2=" ">
+      <marc:subfield code="a">Location of originals unknown.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="535" ind1=" " ind2=" ">
+      <marc:subfield code="3">Letter, 1815 May 14, Abigail Adams to Dolley Madison</marc:subfield>
+      <marc:subfield code="a"> in Newberry Library.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="541" ind1=" " ind2=" ">
+      <marc:subfield code="c">Deposit of Cabell Gwathmey;</marc:subfield>
+      <marc:subfield code="b">2814 Derby Street, Berkeley CA;</marc:subfield>
+      <marc:subfield code="d">1937 April and 1950 July 31.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="561" ind1=" " ind2=" ">
+      <marc:subfield code="a">Sent to Parke-Bernet Galleries, 1950 November 7, and sold at auction 1951, November 7.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="596" ind1=" " ind2=" ">
+      <marc:subfield code="a">10</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Letters (Correspondence)</marc:subfield>
+      <marc:subfield code="2">aat</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Broadsides.</marc:subfield>
+      <marc:subfield code="2">aat</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Adams, Abigail,</marc:subfield>
+      <marc:subfield code="d">1744-1818</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Adams, John,</marc:subfield>
+      <marc:subfield code="d">1735-1826</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Adams, John Quincy,</marc:subfield>
+      <marc:subfield code="d">1767-1848</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Adams, Louisa Catherine,</marc:subfield>
+      <marc:subfield code="d">1775-1852</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Adams, Samuel,</marc:subfield>
+      <marc:subfield code="d">1722-1803</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Allen, Ethan,</marc:subfield>
+      <marc:subfield code="d">1738-1789</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Armstrong, John,</marc:subfield>
+      <marc:subfield code="d">1758-1843</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Arnold, Benedict,</marc:subfield>
+      <marc:subfield code="d">1741-1801</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Braxton, Carter,</marc:subfield>
+      <marc:subfield code="d">1736-1797</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Burr, Aaron,</marc:subfield>
+      <marc:subfield code="d">1756-1836</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Byron, George Gordon Byron,</marc:subfield>
+      <marc:subfield code="c">Baron,</marc:subfield>
+      <marc:subfield code="d">1788-1824</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Carroll, Charles,</marc:subfield>
+      <marc:subfield code="d">1737-1832</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Carter, Landon, </marc:subfield>
+      <marc:subfield code="d">1757-1820,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chase, Samuel,</marc:subfield>
+      <marc:subfield code="d">1741-1811</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Clinton, George,</marc:subfield>
+      <marc:subfield code="d">1739-1812,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Clinton, James,</marc:subfield>
+      <marc:subfield code="d">1736-1812</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cochran, Catharine V. R.</marc:subfield>
+      <marc:subfield code="q">(Van Rensselaer),</marc:subfield>
+      <marc:subfield code="d">1781?-</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cutts, Richard,</marc:subfield>
+      <marc:subfield code="d">1771-1845,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Dawes, Thomas,</marc:subfield>
+      <marc:subfield code="d">1757-1825</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">De Kalb, Johann,</marc:subfield>
+      <marc:subfield code="d">1721-1780,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Dickinson, John Dean,</marc:subfield>
+      <marc:subfield code="d">1767-1841,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Edwards, Jonathan,</marc:subfield>
+      <marc:subfield code="d">1745-1801,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ellery, William,</marc:subfield>
+      <marc:subfield code="d">1727-1820,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ellsworth, Oliver,</marc:subfield>
+      <marc:subfield code="d">1745-1807</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Franklin, Benjamin,</marc:subfield>
+      <marc:subfield code="d">1706-1790</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Fulton, Robert,</marc:subfield>
+      <marc:subfield code="d">1765-1815</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gates, Horatio,</marc:subfield>
+      <marc:subfield code="d">1728-1806</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gerry, Elbridge,</marc:subfield>
+      <marc:subfield code="d">1744-1814,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Greene, Nathanael,</marc:subfield>
+      <marc:subfield code="d">1742-1786</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Griswold, Matthew,</marc:subfield>
+      <marc:subfield code="d">1714-1799</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hall, Lyman,</marc:subfield>
+      <marc:subfield code="d">1724-1790</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hamilton, Alexander,</marc:subfield>
+      <marc:subfield code="d">1757-1804</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hancock, John,</marc:subfield>
+      <marc:subfield code="d">1737-1793</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Harrison, Anna T. Symes, </marc:subfield>
+      <marc:subfield code="d">1775-1864,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Harrison, Benjamin,</marc:subfield>
+      <marc:subfield code="d">1833-1901.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Harrison, William Henry,</marc:subfield>
+      <marc:subfield code="d">1773-1841</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Henry, Patrick,</marc:subfield>
+      <marc:subfield code="d">1736-1799</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hopkinson, Francis,</marc:subfield>
+      <marc:subfield code="d">1737-1791</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hopkinson, Mary Johnson,</marc:subfield>
+      <marc:subfield code="d">1718-1804,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Howard, John Eager, </marc:subfield>
+      <marc:subfield code="d">1752-1827,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Humphreys, David,</marc:subfield>
+      <marc:subfield code="d">1752-1818</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Huntington, Jabez,</marc:subfield>
+      <marc:subfield code="d">1719-1786,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Huntington, Jedediah, </marc:subfield>
+      <marc:subfield code="d">1743-1818,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Huntington, Samuel,</marc:subfield>
+      <marc:subfield code="d">1731-1796</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Irving, Washington,</marc:subfield>
+      <marc:subfield code="d">1783-1859</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jackson, Andrew,</marc:subfield>
+      <marc:subfield code="d">1767-1845</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jay, John,</marc:subfield>
+      <marc:subfield code="d">1745-1829</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jay, Peter A.</marc:subfield>
+      <marc:subfield code="q">(Peter Augustus),</marc:subfield>
+      <marc:subfield code="d">1776-1843</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jefferson, Thomas,</marc:subfield>
+      <marc:subfield code="d">1743-1826</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jenifer, Daniel of St. Thomas,</marc:subfield>
+      <marc:subfield code="d">1723-1790,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Johnson, William Samuel, </marc:subfield>
+      <marc:subfield code="d">1727-1819,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jones, John Paul,</marc:subfield>
+      <marc:subfield code="d">1747-1792</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Knox, Henry,</marc:subfield>
+      <marc:subfield code="d">1750-1806</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kościuszko, Tadeusz,</marc:subfield>
+      <marc:subfield code="d">1746-1817,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, </marc:subfield>
+      <marc:subfield code="c">marquis de,</marc:subfield>
+      <marc:subfield code="d">1757-1834,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Langdon, John,</marc:subfield>
+      <marc:subfield code="d">1741-1819,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Laurens, Henry,</marc:subfield>
+      <marc:subfield code="d">1724-1792</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lee, Charles,</marc:subfield>
+      <marc:subfield code="d">1731-1782</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lee, Francis Lightfoot,</marc:subfield>
+      <marc:subfield code="d">1734-1797</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lee, Henry,</marc:subfield>
+      <marc:subfield code="d">1756-1818</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lee, Richard Henry,</marc:subfield>
+      <marc:subfield code="d">1732-1794</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lewis, Morgan,</marc:subfield>
+      <marc:subfield code="d">1754-1844</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Livingston, Robert R.,</marc:subfield>
+      <marc:subfield code="d">1746-1813</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Logan, James,</marc:subfield>
+      <marc:subfield code="d">1674-1751,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Madison, Dolley,</marc:subfield>
+      <marc:subfield code="d">1768-1849</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Madison, James,</marc:subfield>
+      <marc:subfield code="d">1751-1836,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Marion, Francis,</marc:subfield>
+      <marc:subfield code="d">1732-1795.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">McKean, Thomas,</marc:subfield>
+      <marc:subfield code="d">1734-1817</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mifflin, Thomas,</marc:subfield>
+      <marc:subfield code="d">1744-1800</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Monroe, James,</marc:subfield>
+      <marc:subfield code="d">1758-1831</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Moore, Thomas,</marc:subfield>
+      <marc:subfield code="d">1779-1852</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Morgan, Daniel,</marc:subfield>
+      <marc:subfield code="d">1736-1802,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Morris, Gouverneur,</marc:subfield>
+      <marc:subfield code="d">1752-1816</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Morris, Robert,</marc:subfield>
+      <marc:subfield code="d">1734-1806,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mountflorence, James C.,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Noland, William, </marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Paca, William,</marc:subfield>
+      <marc:subfield code="d">1740-1799</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Paine, Robert Treat,</marc:subfield>
+      <marc:subfield code="d">1731-1814,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Pendleton, Edmund,</marc:subfield>
+      <marc:subfield code="d">1721-1803,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Penn, William,</marc:subfield>
+      <marc:subfield code="d">1644-1718</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Peters, Richard,</marc:subfield>
+      <marc:subfield code="d">1743-1828</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Pickering, Timothy,</marc:subfield>
+      <marc:subfield code="d">1745-1829</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Pinckney, Charles Cotesworth,</marc:subfield>
+      <marc:subfield code="d">1746-1825</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Putnam, Israel,</marc:subfield>
+      <marc:subfield code="d">1718-1790,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Quincy, Josiah,</marc:subfield>
+      <marc:subfield code="d">1772-1864,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Randolph, Edmund,</marc:subfield>
+      <marc:subfield code="d">1753-1813</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Rush, Benjamin,</marc:subfield>
+      <marc:subfield code="d">1746-1813</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Schuyler, Philip John,</marc:subfield>
+      <marc:subfield code="d">1733-1804,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sedgwick, Theodore,</marc:subfield>
+      <marc:subfield code="d">1746-1813</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sherman, Roger,</marc:subfield>
+      <marc:subfield code="d">1721-1793,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Silliman, Benjamin,</marc:subfield>
+      <marc:subfield code="d">1779-1864,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Skinner, John S.</marc:subfield>
+      <marc:subfield code="q">(John Stuart),</marc:subfield>
+      <marc:subfield code="d">1788-1851</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Spencer, Ambrose,</marc:subfield>
+      <marc:subfield code="d">1765-1848,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">St. Clair, Arthur,</marc:subfield>
+      <marc:subfield code="d">1734-1818,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Steuben, Friedrich Wilhelm Ludolf Gerhard Augustin,</marc:subfield>
+      <marc:subfield code="c">Baron von,</marc:subfield>
+      <marc:subfield code="d">1730-1794</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Stone, Thomas,</marc:subfield>
+      <marc:subfield code="d">1743-1787,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tayloe, Edward T.</marc:subfield>
+      <marc:subfield code="q">(Edward Thornton),</marc:subfield>
+      <marc:subfield code="d">1803-1876,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tayloe, Benjamin Ogle,</marc:subfield>
+      <marc:subfield code="d">1796-1868,</marc:subfield>
+      <marc:subfield code="e">recipient..</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tayloe, John, </marc:subfield>
+      <marc:subfield code="d">1771-1828,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tayloe, Julia Dickinson, </marc:subfield>
+      <marc:subfield code="d">fl. 1786,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Thomson, Charles,</marc:subfield>
+      <marc:subfield code="d">1729-1824</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Trumbull, John,</marc:subfield>
+      <marc:subfield code="d">1756-1843</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tyler, John,</marc:subfield>
+      <marc:subfield code="d">1790-1862</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Van Buren, Martin,</marc:subfield>
+      <marc:subfield code="d">1782-1862</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Walton, George, </marc:subfield>
+      <marc:subfield code="d">1741-1804.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ward, Artemas,</marc:subfield>
+      <marc:subfield code="d">1727-1800,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Warren, James,</marc:subfield>
+      <marc:subfield code="d">1726-1808,</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Washington, George,</marc:subfield>
+      <marc:subfield code="d">1732-1799</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wayne, Anthony,</marc:subfield>
+      <marc:subfield code="d">1745-1796,</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wilkinson, James,</marc:subfield>
+      <marc:subfield code="d">1757-1825</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Williams, William,</marc:subfield>
+      <marc:subfield code="d">1731-1811</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wood, James,</marc:subfield>
+      <marc:subfield code="d">1741-1813</marc:subfield>
+      <marc:subfield code="e">recipient.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wolcott, Oliver,</marc:subfield>
+      <marc:subfield code="d">1726-1797</marc:subfield>
+      <marc:subfield code="e">correspondent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="940" ind1=" " ind2=" ">
+      <marc:subfield code="a">Original deposit (#38-239) of 28 letters was returned to depositor July 6, 1950.  The entire collection (170 items) was redeposited (#38-239-a) for microfilming, and  at the request of the depositor the collection was sent to Parke-Bernet Galleries, 980 Madison Avenue, New York NY on November 7, 1950 (and sold at auctions January 9, 1951).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="946" ind1=" " ind2=" ">
+      <marc:subfield code="a">only Microfilm reel  M-559.  (originals returned, current owner unknown)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">MSS 38-239, 38-239-a</marc:subfield>
+      <marc:subfield code="w">ALPHANUM</marc:subfield>
+      <marc:subfield code="c">1</marc:subfield>
+      <marc:subfield code="i">2652666-1001</marc:subfield>
+      <marc:subfield code="d">8/28/2014</marc:subfield>
+      <marc:subfield code="e">8/28/2014</marc:subfield>
+      <marc:subfield code="j">170</marc:subfield>
+      <marc:subfield code="l">STACKS</marc:subfield>
+      <marc:subfield code="m">SPEC-COLL</marc:subfield>
+      <marc:subfield code="n">9</marc:subfield>
+      <marc:subfield code="r">Y</marc:subfield>
+      <marc:subfield code="s">Y</marc:subfield>
+      <marc:subfield code="t">MICROFILM</marc:subfield>
+      <marc:subfield code="u">2/26/1997</marc:subfield>
+      <marc:subfield code="1">2018SPECCO</marc:subfield>
+      <marc:subfield code="o">.STAFF. only on Microfilm reel  M-559 only (originals returned, current owner unknown)</marc:subfield>
+      <marc:subfield code="o">.STAFF. NUCMC cataloging does not match listing.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">Microfilm 559</marc:subfield>
+      <marc:subfield code="w">ALPHANUM</marc:subfield>
+      <marc:subfield code="c">1</marc:subfield>
+      <marc:subfield code="i">2652666-2001</marc:subfield>
+      <marc:subfield code="d">6/8/2018</marc:subfield>
+      <marc:subfield code="e">6/8/2018</marc:subfield>
+      <marc:subfield code="l">STACKS</marc:subfield>
+      <marc:subfield code="m">SPEC-COLL</marc:subfield>
+      <marc:subfield code="n">3</marc:subfield>
+      <marc:subfield code="r">Y</marc:subfield>
+      <marc:subfield code="s">Y</marc:subfield>
+      <marc:subfield code="t">MICROFILM</marc:subfield>
+      <marc:subfield code="u">5/23/2008</marc:subfield>
+      <marc:subfield code="1">2018SPECCO</marc:subfield>
+      <marc:subfield code="o">.STAFF. M-559</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

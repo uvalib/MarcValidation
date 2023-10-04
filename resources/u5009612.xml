@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>01231cam a22003018a 4500</leader>
+    <controlfield tag="001">u5009612</controlfield>
+    <controlfield tag="003">SIRSI</controlfield>
+    <controlfield tag="005">20090925124053.0</controlfield>
+    <controlfield tag="008">090710s2009    at ab    b    001 0 eng  </controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781741048216 (hbk.)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1741048214 (hbk.)</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)426122028</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">UKM</subfield>
+      <subfield code="c">UKM</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">DT470.5</subfield>
+      <subfield code="b">.W47 2009</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">West Africa /</subfield>
+      <subfield code="c">Anthony Ham ... [et al.].</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">7th ed.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Footscray, Vic. ;</subfield>
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Lonely Planet,</subfield>
+      <subfield code="c">2009.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">912 p. :</subfield>
+      <subfield code="b">ill., maps ;</subfield>
+      <subfield code="c">20 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Previous ed.: 2006.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographical references and index.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">21</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Africa, West</subfield>
+      <subfield code="v">Guidebooks.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Ham, Anthony.</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">DT470.5 .W47 2009</subfield>
+      <subfield code="w">LC</subfield>
+      <subfield code="c">1</subfield>
+      <subfield code="i">X030377368</subfield>
+      <subfield code="l">ATSEA-STKS</subfield>
+      <subfield code="m">ATSEA</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">BOOK</subfield>
+      <subfield code="u">9/25/2009</subfield>
+      <subfield code="x">CLASSIFY</subfield>
+      <subfield code="z">RUSH</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">DT470.5 .W47 2009</subfield>
+      <subfield code="w">LC</subfield>
+      <subfield code="c">2</subfield>
+      <subfield code="i">X030377369</subfield>
+      <subfield code="l">ATSEA-STKS</subfield>
+      <subfield code="m">ATSEA</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">BOOK</subfield>
+      <subfield code="u">9/25/2009</subfield>
+      <subfield code="x">ADD</subfield>
+      <subfield code="z">RUSH</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">DT470.5 .W47 2009</subfield>
+      <subfield code="w">LC</subfield>
+      <subfield code="c">3</subfield>
+      <subfield code="i">X030377370</subfield>
+      <subfield code="l">ATSEA-STKS</subfield>
+      <subfield code="m">ATSEA</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">BOOK</subfield>
+      <subfield code="u">9/25/2009</subfield>
+      <subfield code="x">ADD</subfield>
+      <subfield code="z">RUSH</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">DT470.5 .W47 2009</subfield>
+      <subfield code="w">LC</subfield>
+      <subfield code="c">4</subfield>
+      <subfield code="i">X030377371</subfield>
+      <subfield code="l">ATSEA-STKS</subfield>
+      <subfield code="m">ATSEA</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">BOOK</subfield>
+      <subfield code="u">9/25/2009</subfield>
+      <subfield code="x">ADD</subfield>
+      <subfield code="z">RUSH</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">DT470.5 .W47 2009</subfield>
+      <subfield code="w">LC</subfield>
+      <subfield code="c">5</subfield>
+      <subfield code="i">X030377372</subfield>
+      <subfield code="l">ATSEA-STKS</subfield>
+      <subfield code="m">ATSEA</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">BOOK</subfield>
+      <subfield code="u">9/25/2009</subfield>
+      <subfield code="x">ADD</subfield>
+      <subfield code="z">RUSH</subfield>
+    </datafield>
+  </record>
+</collection>

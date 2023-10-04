@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>01829cam a2200361Ma 4500</leader>
+    <controlfield tag="001">u5356959</controlfield>
+    <controlfield tag="003">SIRSI</controlfield>
+    <controlfield tag="005">20110614105254.0</controlfield>
+    <controlfield tag="008">890201s1928    pau      b    001 0 heb  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   28003305</subfield>
+    </datafield>
+    <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">18555148</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)19405178</subfield>
+      <subfield code="z">(OCoLC)18555148</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">DRB</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">IQU</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">CLU</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2=" ">
+      <subfield code="a">heb</subfield>
+      <subfield code="a">arc</subfield>
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2="4">
+      <subfield code="a">BM506</subfield>
+      <subfield code="b">.T2 1928</subfield>
+    </datafield>
+    <datafield tag="066" ind1=" " ind2=" ">
+      <subfield code="c">(2</subfield>
+    </datafield>
+    <datafield tag="130" ind1="0" ind2=" ">
+      <subfield code="a">Talmud.</subfield>
+      <subfield code="p">Taʻanit.</subfield>
+      <subfield code="l">English &amp; Hebrew.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="6">880-01</subfield>
+      <subfield code="a">Masekhet Taʻanit min Talmud bavli /</subfield>
+      <subfield code="c">hogahah [t.d.] ʻal pi kitve yad shonim ve-hotsa'ot ʻatiḳot ve-naʻ-taḳah le-s̄efat Anglit ʻal yede Tsevi Melṭer.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="5">
+      <subfield code="a">Treatise Taʻanit of the Babylonian Talmud</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Filadelfia :</subfield>
+      <subfield code="b">ha-Hevrah ha-yehudit le-hotsa'at sefarim asher ba-Ameriḳa,</subfield>
+      <subfield code="c">688, 1928.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xlvii, 240, 240, 241-243 p. ;</subfield>
+      <subfield code="c">17 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Schiff Library of Jewish classics</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographical references and index.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">Hebrew, Aramaic text and English translation on opposite pages.</subfield>
+    </datafield>
+    <datafield tag="630" ind1="0" ind2="0">
+      <subfield code="a">Talmud.</subfield>
+      <subfield code="p">Taʻanit.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Malter, Henry,</subfield>
+      <subfield code="d">1864-1925.</subfield>
+    </datafield>
+    <datafield tag="776" ind1="0" ind2="8">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="a">Talmud. Taʻanit. English &amp; Hebrew.</subfield>
+      <subfield code="t">Masekhet Taʻanit min Talmud bavli.</subfield>
+      <subfield code="d">Filadelfia : ha-Hevrah ha-yehudit le-hotsa'at sefarim asher ba-Ameriḳa, 688, 1928</subfield>
+      <subfield code="w">(OCoLC)647397892</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Schiff library of Jewish classics.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2="0">
+      <subfield code="6">245-01/(2/r</subfield>
+      <subfield code="a">‏מסכת תענית מן תלמוד בבלי /&amp;#ר200%ֻר;</subfield>
+      <subfield code="c">‏הוגהה על פי כתבי יד שונים והוצאות עתיקות ונעתקה לשפת אנגלית על ידי צבי מלטער.</subfield>
+    </datafield>
+    <datafield tag="880" ind1=" " ind2=" ">
+      <subfield code="6">260-00/(2/r</subfield>
+      <subfield code="a">‏פילאדלפיא :&amp;#ר200%ֻר;</subfield>
+      <subfield code="b">‏החברה היהודית להוצאת ספרים אשר באמיריקא,&amp;#ר200%ֻר;</subfield>
+      <subfield code="c">‏תרפ״ח [1927 ןע 1928]</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">Z0</subfield>
+      <subfield code="b">VA@</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">2</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">BM506 .T2 1928</subfield>
+      <subfield code="w">LC</subfield>
+      <subfield code="c">1</subfield>
+      <subfield code="i">X004046320</subfield>
+      <subfield code="l">ALD-STKS</subfield>
+      <subfield code="m">ALDERMAN</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">BOOK</subfield>
+      <subfield code="u">6/14/2011</subfield>
+      <subfield code="x">CONVERSION</subfield>
+    </datafield>
+  </record>
+</collection>

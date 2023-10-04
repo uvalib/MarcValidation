@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>01215nem a2200301Ia 4500</leader>
+    <controlfield tag="001">u3491879</controlfield>
+    <controlfield tag="003">SIRSI</controlfield>
+    <controlfield tag="005">20000126114424.0</controlfield>
+    <controlfield tag="008">000126s1984    ja        e     0   jpn d</controlfield>
+    <controlfield tag="006">ab          000 0 </controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Sirsi) o43350153</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)43350153</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">VA@</subfield>
+      <subfield code="c">VA@</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">VA@@</subfield>
+    </datafield>
+    <datafield tag="066" ind1=" " ind2=" ">
+      <subfield code="c">$1</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">G2355</subfield>
+      <subfield code="b">.N48 1984</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="6">880-01</subfield>
+      <subfield code="a">Nihon bunken chizu chimei sōran 59 :</subfield>
+      <subfield code="b">kōkyō kikan, chikeizu sakuin, jidōsha rosen eigyō kiroteizu /</subfield>
+      <subfield code="c">[henshū Jinbunsha Henshūbu].</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="6">880-02</subfield>
+      <subfield code="a">Tōkyō :</subfield>
+      <subfield code="b">Jinbunsha,</subfield>
+      <subfield code="c">Shōwa 59 [1984]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 v. (various pagings) :</subfield>
+      <subfield code="b">col. maps (some fold.) ;</subfield>
+      <subfield code="c">46 cm.</subfield>
+    </datafield>
+    <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">Note: Shelved in Asian Studies Room OVERSIZE section, second alcove on left wall</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">2</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Japan</subfield>
+      <subfield code="v">Maps.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Japan</subfield>
+      <subfield code="v">Gazetteers.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="6">880-03</subfield>
+      <subfield code="a">Jinbutsusha.</subfield>
+      <subfield code="b">Henshūbu.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="0" ind2="0">
+      <subfield code="6">245-01/$1</subfield>
+      <subfield code="a">日本分県地図地名総覧59 :</subfield>
+      <subfield code="b">公共機関．地形図索引, 自動車路線営業キロ程図 /</subfield>
+      <subfield code="c">[編集 人文社編集部].</subfield>
+    </datafield>
+    <datafield tag="880" ind1=" " ind2=" ">
+      <subfield code="6">260-02/$1</subfield>
+      <subfield code="a">東京 :</subfield>
+      <subfield code="b">人文社,</subfield>
+      <subfield code="c">昭和 59 [1984]</subfield>
+    </datafield>
+    <datafield tag="880" ind1="2" ind2=" ">
+      <subfield code="6">710-03/$1</subfield>
+      <subfield code="a">人文社.</subfield>
+      <subfield code="b">編集部.</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">G2355 .N48 1984</subfield>
+      <subfield code="w">LC</subfield>
+      <subfield code="i">X004419004</subfield>
+      <subfield code="l">ASIAN_ROOM</subfield>
+      <subfield code="m">ALDERMAN</subfield>
+      <subfield code="t">REFERENCE</subfield>
+    </datafield>
+  </record>
+</collection>

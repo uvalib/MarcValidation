@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02217nam a2200481 i 4500</marc:leader>
+    <marc:controlfield tag="001">u8688380</marc:controlfield>
+    <marc:controlfield tag="003">SIRSI</marc:controlfield>
+    <marc:controlfield tag="005">20200903143023.0</marc:controlfield>
+    <marc:controlfield tag="006">m|||||o||d||||||||</marc:controlfield>
+    <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+    <marc:controlfield tag="008">200825s2020    enka   fob    001|0|eng|d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780191895425 (ebook) :</marc:subfield>
+      <marc:subfield code="c">No price</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">StDuBDS</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">StDuBDS</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+      <marc:subfield code="e">pn</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1=" " ind2="4">
+      <marc:subfield code="a">PR2901.P3779457</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">822.33</marc:subfield>
+      <marc:subfield code="2">23</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Parry, G. J. R.,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Shakespeare before Shakespeare :</marc:subfield>
+      <marc:subfield code="b">Stratford-upon-Avon, Warwickshire, and the Elizabethan state /</marc:subfield>
+      <marc:subfield code="c">Glyn Parry and Cathryn Enis.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First edition.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Oxford :</marc:subfield>
+      <marc:subfield code="b">Oxford University Press,</marc:subfield>
+      <marc:subfield code="c">2020.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 online resource :</marc:subfield>
+      <marc:subfield code="b">illustrations (black and white, and colour).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">still image</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">online resource</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Oxford scholarship online</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">This edition also issued in print: 2020.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="8" ind2=" ">
+      <marc:subfield code="a">Before William Shakespeare wrote world-famous plays on the themes of power and political turmoil, the Shakespeare family of Stratford-upon-Avon and their neighbours and friends were plagued by false accusations and feuds with the government - conflicts that shaped Shakespeare's sceptical understanding of the realities of power.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="521" ind1=" " ind2=" ">
+      <marc:subfield code="a">Specialized.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="588" ind1=" " ind2=" ">
+      <marc:subfield code="a">Description based on online resource; title from home page (viewed on August 25, 2020).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">Shakespeare, William,</marc:subfield>
+      <marc:subfield code="d">1564-1616</marc:subfield>
+      <marc:subfield code="x">Family.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">Shakespeare, William,</marc:subfield>
+      <marc:subfield code="d">1564-1616</marc:subfield>
+      <marc:subfield code="x">Friends and associates.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="3" ind2="0">
+      <marc:subfield code="a">Shakespeare family.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="3" ind2="0">
+      <marc:subfield code="a">Dudley family.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="3" ind2="0">
+      <marc:subfield code="a">Arden family.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Stratford-upon-Avon (England)</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="y">16th century.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">England</marc:subfield>
+      <marc:subfield code="x">Politics and government</marc:subfield>
+      <marc:subfield code="y">16th century.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Enis, Cathryn,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="776" ind1="0" ind2="8">
+      <marc:subfield code="i">Print version :</marc:subfield>
+      <marc:subfield code="z">9780198862918</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1=" " ind2="0">
+      <marc:subfield code="a">Oxford scholarship online.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="3">Oxford scholarship online</marc:subfield>
+      <marc:subfield code="u">https://dx.doi.org/10.1093/oso/9780198862918.001.0001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="596" ind1=" " ind2=" ">
+      <marc:subfield code="a">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">XX(8688380.1)</marc:subfield>
+      <marc:subfield code="w">WEB</marc:subfield>
+      <marc:subfield code="c">1</marc:subfield>
+      <marc:subfield code="i">8688380-1001</marc:subfield>
+      <marc:subfield code="l">INTERNET</marc:subfield>
+      <marc:subfield code="m">UVA-LIB</marc:subfield>
+      <marc:subfield code="r">N</marc:subfield>
+      <marc:subfield code="s">Y</marc:subfield>
+      <marc:subfield code="t">INTERNET</marc:subfield>
+      <marc:subfield code="u">9/25/2020</marc:subfield>
+      <marc:subfield code="x">NON-OCLC</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

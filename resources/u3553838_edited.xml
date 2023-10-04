@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>01121cam a2200325Ia 4500</leader>
+    <controlfield tag="001">u3553838</controlfield>
+    <controlfield tag="003">SIRSI</controlfield>
+    <controlfield tag="005">20000731084056.0</controlfield>
+    <controlfield tag="008">790319s1912    dcu      b   f000 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">agr12001018</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Sirsi) o04755901</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">201969</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">CLE</subfield>
+      <subfield code="d">AGL</subfield>
+    </datafield>
+    <datafield tag="070" ind1="0" ind2=" ">
+      <subfield code="a">1</subfield>
+      <subfield code="b">Ag84F no.501</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2=" ">
+      <subfield code="a">F821</subfield>
+    </datafield>
+    <datafield tag="092" ind1=" " ind2=" ">
+      <subfield code="a">632</subfield>
+      <subfield code="b">pam box</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cook, O. F.</subfield>
+      <subfield code="q">(Orator Fuller),</subfield>
+      <subfield code="d">1867-1949.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Cotton improvement under weevil conditions /</subfield>
+      <subfield code="c">by O.F. Cook.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Washington, D.C. :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture,</subfield>
+      <subfield code="c">1912.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">22 p. ;</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Farmers' bulletin / United States Department of Agriculture ;</subfield>
+      <subfield code="v">no. 501</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Cover title.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographical references.</subfield>
+    </datafield>
+    <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">ALDERMAN: Bound with other titles in series.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">2</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Boll weevil.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Cotton.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Farmers' bulletin (United States. Dept. of Agriculture) ;</subfield>
+      <subfield code="v">no. 501.</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">Z0</subfield>
+      <subfield code="b">VA@</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">A 1.9:501</subfield>
+      <subfield code="w">SUDOC</subfield>
+      <subfield code="c">1</subfield>
+      <subfield code="i">3553838-1001</subfield>
+      <subfield code="d">2/13/2002</subfield>
+      <subfield code="e">3/29/2001</subfield>
+      <subfield code="l">DOC-US</subfield>
+      <subfield code="m">ALDERMAN</subfield>
+      <subfield code="n">1</subfield>
+      <subfield code="q">8</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">DOCUMENT</subfield>
+      <subfield code="u">7/31/2000</subfield>
+      <subfield code="x">DOCSCON</subfield>
+    </datafield>
+  </record>
+</collection>

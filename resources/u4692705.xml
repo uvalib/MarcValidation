@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00625crc a2200121   4500</leader>
+    <controlfield tag="001">u4692705</controlfield>
+    <controlfield tag="003">SIRSI</controlfield>
+    <controlfield tag="008">120918n           nnn            r zxx u</controlfield>
+    <datafield tag="245" ind1=" " ind2=" ">
+      <subfield code="a">Minerals</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">5</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">PERCO.EVSC280L.HERMAN.MINERALS</subfield>
+      <subfield code="w">AUTO</subfield>
+      <subfield code="c">1</subfield>
+      <subfield code="i">X030243478</subfield>
+      <subfield code="d">10/6/2011</subfield>
+      <subfield code="e">10/6/2011</subfield>
+      <subfield code="k">SEL-RESV</subfield>
+      <subfield code="l">RSRVSHADOW</subfield>
+      <subfield code="m">SCI-ENG</subfield>
+      <subfield code="n">200</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">RSRV-PERS</subfield>
+      <subfield code="u">2/28/2008</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">PERCO.EVSC280L.HERMAN.MINERALS</subfield>
+      <subfield code="w">AUTO</subfield>
+      <subfield code="c">2</subfield>
+      <subfield code="i">X030243479</subfield>
+      <subfield code="d">11/30/2011</subfield>
+      <subfield code="e">11/30/2011</subfield>
+      <subfield code="k">SEL-RESV</subfield>
+      <subfield code="l">RSRVSHADOW</subfield>
+      <subfield code="m">SCI-ENG</subfield>
+      <subfield code="n">192</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">RSRV-PERS</subfield>
+      <subfield code="u">2/28/2008</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">PERCO.EVSC280L.HERMAN.MINERALS</subfield>
+      <subfield code="w">AUTO</subfield>
+      <subfield code="c">3</subfield>
+      <subfield code="i">X030243480</subfield>
+      <subfield code="d">10/6/2011</subfield>
+      <subfield code="e">10/6/2011</subfield>
+      <subfield code="k">SEL-RESV</subfield>
+      <subfield code="l">RSRVSHADOW</subfield>
+      <subfield code="m">SCI-ENG</subfield>
+      <subfield code="n">200</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">RSRV-PERS</subfield>
+      <subfield code="u">2/28/2008</subfield>
+    </datafield>
+  </record>
+</collection>

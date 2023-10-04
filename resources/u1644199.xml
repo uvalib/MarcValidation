@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>01533cam a2200361 a 4500</leader>
+    <controlfield tag="001">u1644199</controlfield>
+    <controlfield tag="003">SIRSI</controlfield>
+    <controlfield tag="008">880223s1986    ja abi   b    00110 jpn d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(Sirsi) o17525017</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)17525017</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">434-5459</subfield>
+      <subfield code="b">YX1707284=@</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">UUM</subfield>
+      <subfield code="c">UUM</subfield>
+      <subfield code="d">ORU</subfield>
+      <subfield code="d">VA@</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">a-cc---</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">VA@@</subfield>
+    </datafield>
+    <datafield tag="066" ind1=" " ind2=" ">
+      <subfield code="c">$1</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BQ9262.9.C5</subfield>
+      <subfield code="b">A23 1986</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Abe, Chōichi,</subfield>
+      <subfield code="d">1927-</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Zōtei Chūgoku Zenshūshi no kenkyū :</subfield>
+      <subfield code="b">seiji shakaishiteki kōsatsu /</subfield>
+      <subfield code="c">Abe Chōichi cho.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a"> Tōkyō :</subfield>
+      <subfield code="b">Kenbun Shuppan,</subfield>
+      <subfield code="c">1986.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">675, 24, vii p. :</subfield>
+      <subfield code="b">ill., maps, geneal. tables ;</subfield>
+      <subfield code="c">22 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Added t.p., preface and outline in English: A study of the history of Chinese Zen Buddhism.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliogtraphical references.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">2</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Zen Buddhism</subfield>
+      <subfield code="z">China</subfield>
+      <subfield code="x">History.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Zen Buddhists</subfield>
+      <subfield code="z">China</subfield>
+      <subfield code="x">History.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" ">
+      <subfield code="a">Study of the history of Chinese Zen Buddhism.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" ">
+      <subfield code="a"> Chūgoku Zenshūshi no kenkyū.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2="0">
+      <subfield code="6">100-01/$1</subfield>
+      <subfield code="a">₋$1!s!k!S"!0!₋(B,</subfield>
+      <subfield code="d">1927-</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2="0">
+      <subfield code="6">245-02/$1</subfield>
+      <subfield code="a">₋$1K8!X9!04K7oKN!:l!5=i$NKN7!ON₋(B :</subfield>
+      <subfield code="b">₋$1!BA!G4!Na'CZ!5=!M"!R]!;3₋(B /</subfield>
+      <subfield code="c">₋$1!s!k!S"!0!!UN₋(B.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="0" ind2=" ">
+      <subfield code="6">260-03/$1</subfield>
+      <subfield code="a">₋$1!D&amp;!0a₋(B :</subfield>
+      <subfield code="b">₋$1KN7!BX!3K!JH₋(B,</subfield>
+      <subfield code="c">1986.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="0" ind2="1">
+      <subfield code="6">740-04/$1</subfield>
+      <subfield code="a">₋$1!04K7oKN!:l!5=i$NKN7!ON₋(B.</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">BQ9264.9 .C5 A23 1986</subfield>
+      <subfield code="w">LC</subfield>
+      <subfield code="c">1</subfield>
+      <subfield code="i">X001707284</subfield>
+      <subfield code="d">8/27/2007</subfield>
+      <subfield code="e">7/11/2007</subfield>
+      <subfield code="l">ALD-STKS</subfield>
+      <subfield code="m">ALDERMAN</subfield>
+      <subfield code="n">8</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">BOOK</subfield>
+      <subfield code="u">6/30/1996</subfield>
+      <subfield code="x">H-NOTIS</subfield>
+    </datafield>
+  </record>
+</collection>

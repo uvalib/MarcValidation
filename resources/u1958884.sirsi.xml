@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>01947cam a2200301 i 4500</leader>
+    <controlfield tag="001">u1958884</controlfield>
+    <controlfield tag="003">SIRSI</controlfield>
+    <controlfield tag="008">780601s1881    enk           000|0 eng d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(SIRSI)u1958884</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(SIRSI)u1958884</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(SIRSI)ocm03944819</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)30440868</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">SUC</subfield>
+      <subfield code="c">SUC</subfield>
+      <subfield code="d">m.c.</subfield>
+      <subfield code="d">VA@</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PR5244</subfield>
+      <subfield code="b">.B2 1881</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Rossetti, Dante Gabriel,</subfield>
+      <subfield code="d">1828-1882.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Ballads and sonnets /</subfield>
+      <subfield code="c">by Dante Gabriel Rossetti.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Ellis and White,</subfield>
+      <subfield code="c">1881</subfield>
+      <subfield code="e">([London :</subfield>
+      <subfield code="f">Chiswick Press, Charles Whittingham and Co.)</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">[3] leaves, [v]-xii, 159 p., [2] leaves, [163]-335, [2] p. ;</subfield>
+      <subfield code="c">20 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Advertisements on p. [2] at end.</subfield>
+    </datafield>
+    <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">SPECIAL COLLECTIONS: Copy 1: Original dark green cloth with gold blocked floral design on covers and spine, and gold spine title; light blue-green endpapers, with similar floral motif.</subfield>
+    </datafield>
+    <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">SPECIAL COLLECTIONS: Copy 2: Original dark green cloth with gold blocked floral design on covers and spine, and gold spine title; light blue-green endpapers, with similar floral motif. Armorial bookplates of Alfred Cook, and of Thomas B. Mosher. Gift of Cecil Y. Lang.</subfield>
+    </datafield>
+    <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">SPECIAL COLLECTIONS: Copy 3: Original dark green cloth with gold blocked floral design on covers and spine, and gold spine title; light blue-green endpapers, with similar floral motif. Gift of Jerome J. McGann, December 2008.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="0">
+      <subfield code="a">McGann, Jerome J.</subfield>
+      <subfield code="x">Library</subfield>
+      <subfield code="x">Personal copy.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="0" ind2=" ">
+      <subfield code="a">Chiswick Press.</subfield>
+    </datafield>
+    <datafield tag="970" ind1=" " ind2=" ">
+      <subfield code="a">Marcive</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">PR5244 .B2 1881</subfield>
+      <subfield code="w">LC</subfield>
+      <subfield code="c">1</subfield>
+      <subfield code="i">X004976952</subfield>
+      <subfield code="d">3/16/2006</subfield>
+      <subfield code="e">3/16/2006</subfield>
+      <subfield code="l">STACKS</subfield>
+      <subfield code="m">SPEC-COLL</subfield>
+      <subfield code="n">65</subfield>
+      <subfield code="q">4</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">RAREBOOK</subfield>
+      <subfield code="u">6/30/1996</subfield>
+      <subfield code="x">H-NOTIS</subfield>
+      <subfield code="1">2018SPECCO</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">PR5244 .B2 1881</subfield>
+      <subfield code="w">LC</subfield>
+      <subfield code="c">2</subfield>
+      <subfield code="i">X004974035</subfield>
+      <subfield code="d">3/16/2006</subfield>
+      <subfield code="e">3/16/2006</subfield>
+      <subfield code="l">STACKS</subfield>
+      <subfield code="m">SPEC-COLL</subfield>
+      <subfield code="n">3</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">RAREBOOK</subfield>
+      <subfield code="u">2/24/2004</subfield>
+      <subfield code="x">ADD</subfield>
+      <subfield code="1">2018SPECCO</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">PR5244 .B2 1881</subfield>
+      <subfield code="w">LC</subfield>
+      <subfield code="c">3</subfield>
+      <subfield code="i">X030434358</subfield>
+      <subfield code="d">10/25/2011</subfield>
+      <subfield code="e">10/25/2011</subfield>
+      <subfield code="l">STACKS</subfield>
+      <subfield code="m">SPEC-COLL</subfield>
+      <subfield code="n">3</subfield>
+      <subfield code="r">Y</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">RAREBOOK</subfield>
+      <subfield code="u">1/9/2009</subfield>
+      <subfield code="x">ADD</subfield>
+      <subfield code="1">2018SPECCO</subfield>
+    </datafield>
+</record>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>03832cgm a2200805Ia 4500</leader>
+    <controlfield tag="001">u6080315</controlfield>
+    <controlfield tag="003">SIRSI</controlfield>
+    <controlfield tag="005">20130612100631.0</controlfield>
+    <controlfield tag="007">vd cvaizu</controlfield>
+    <controlfield tag="008">080729p20071985cc 097            vlchi d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9787886115011</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">7886115015</subfield>
+    </datafield>
+    <datafield tag="024" ind1="0" ind2=" ">
+      <subfield code="a">CNH020700310</subfield>
+      <subfield code="d">V.J9</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)236488303</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">STF</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">STF</subfield>
+      <subfield code="d">ACTRA</subfield>
+      <subfield code="d">TEF</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">ZCU</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">WAU</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">a-cc---</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">PN1997</subfield>
+      <subfield code="b">.Y43 2007</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">ZDVD 17556</subfield>
+    </datafield>
+    <datafield tag="066" ind1=" " ind2=" ">
+      <subfield code="c">$1</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="6">880-01</subfield>
+      <subfield code="a">Ye shan</subfield>
+      <subfield code="h">[videorecording] =</subfield>
+      <subfield code="b">In the wild mountains /</subfield>
+      <subfield code="c">Xi'an dian ying zhi pian chang ; bian ju, Yan Xueshu, Zhuzi ; dao yan, Yan Xueshu ; zhi pian, He Xiaoli.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2="1">
+      <subfield code="a">In the wild mountains</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="6">880-02</subfield>
+      <subfield code="a">[Xi'an] :</subfield>
+      <subfield code="b">Xi'an dian ying zhi pian chang lu yin lu xiang chu ban she,</subfield>
+      <subfield code="c">[2007]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 videodisc (97 min.) :</subfield>
+      <subfield code="b">sd., col. ;</subfield>
+      <subfield code="c">4 3/4 in.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="6">880-03</subfield>
+      <subfield code="a">Zhongguo jing dian dian ying = Chinese movies</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="6">880-04</subfield>
+      <subfield code="a">Han yu =Chinese follow me</subfield>
+    </datafield>
+    <datafield tag="538" ind1=" " ind2=" ">
+      <subfield code="a">DVD-5; All regions; NTSC.</subfield>
+    </datafield>
+    <datafield tag="511" ind1="1" ind2=" ">
+      <subfield code="6">880-05</subfield>
+      <subfield code="a">Du Yuan, Yue Hong, Xin Ming, Xu Shouli.</subfield>
+    </datafield>
+    <datafield tag="508" ind1=" " ind2=" ">
+      <subfield code="6">880-06</subfield>
+      <subfield code="a">Cinematography, Mi Jiaqing ;  composer, Xu Youfu ; film editor, Xue Xiaoqiang.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="6">880-07</subfield>
+      <subfield code="a">Gen ju Jia Pingwa xiao shuo "Ji wo wa de ren jia" gai bian.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Originally released in 1985 as a motion picture.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Widescreen format.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Two families living side by side in the Wild Mountains exist in completely different worlds. One leads a traditional farmer life. The other, an ex-soldier tries to create a better life for himself and his family through the new reforms in China. In the end the two original couples are divorced and two new families are formed.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">In Mandarin with Chinese and English subtitles.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Country life</subfield>
+      <subfield code="z">China</subfield>
+      <subfield code="v">Drama.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">China</subfield>
+      <subfield code="v">Drama.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="0">
+      <subfield code="6">880-08</subfield>
+      <subfield code="a">Jia, Pingwa</subfield>
+      <subfield code="v">Film adaptations.</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Feature films.</subfield>
+      <subfield code="2">lcgft</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="6">880-09</subfield>
+      <subfield code="a">Yan, Xueshu,</subfield>
+      <subfield code="e">screenwriter,</subfield>
+      <subfield code="e">director.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="0" ind2=" ">
+      <subfield code="6">880-10</subfield>
+      <subfield code="a">Zhuzi,</subfield>
+      <subfield code="e">screenwriter.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="6">880-11</subfield>
+      <subfield code="a">Du, Yuan,</subfield>
+      <subfield code="d">1957-</subfield>
+      <subfield code="e">actor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="6">880-12</subfield>
+      <subfield code="a">Yue, Hong,</subfield>
+      <subfield code="d">1962-</subfield>
+      <subfield code="e">actor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="6">880-13</subfield>
+      <subfield code="a">Xin, Ming,</subfield>
+      <subfield code="e">actor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="6">880-14</subfield>
+      <subfield code="a">Xu, Shouli,</subfield>
+      <subfield code="d">1959-</subfield>
+      <subfield code="e">actor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="6">880-15</subfield>
+      <subfield code="a">Xu, Youfu,</subfield>
+      <subfield code="e">composer (expression)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="6">880-16</subfield>
+      <subfield code="a">Jia, Pingwa.</subfield>
+      <subfield code="t">Jiwowa ren jia.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="6">880-17</subfield>
+      <subfield code="a">Xi'an dian ying zhi pian chang.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="6">880-18</subfield>
+      <subfield code="a">Zhongguo jing dian dian ying.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="6">880-19</subfield>
+      <subfield code="a">Gen wo xue Han yu.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="0" ind2="0">
+      <subfield code="6">245-01/$1</subfield>
+      <subfield code="a">密;e</subfield>
+      <subfield code="h">videorecording =</subfield>
+      <subfield code="b">In the wild mountains /</subfield>
+      <subfield code="c">西安电影制片厂 ; 'Q'3~, 顏学恕, 竹子 ; 导演, 顏学恕 ; 制片, 何晓黎.</subfield>
+    </datafield>
+    <datafield tag="880" ind1=" " ind2=" ">
+      <subfield code="6">260-02/$1</subfield>
+      <subfield code="a">西安 :</subfield>
+      <subfield code="b">西安电影制片厂't!`1't!2W!3K!JH!Na,</subfield>
+      <subfield code="c">2007</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">490-03/$1</subfield>
+      <subfield code="a">中国经典电影 = Chinese movies</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">490-04/$1</subfield>
+      <subfield code="a">汉语 = Chinese follow me</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">511-05/$1</subfield>
+      <subfield code="a">杜原, 岳红, 賅C!, 徐守莉.</subfield>
+    </datafield>
+    <datafield tag="880" ind1=" " ind2=" ">
+      <subfield code="6">508-06/$1</subfield>
+      <subfield code="a">Cinematography, 米家庆 ;  composer, 许友夫 ; film editor, 薛效强.</subfield>
+    </datafield>
+    <datafield tag="880" ind1=" " ind2=" ">
+      <subfield code="6">500-07/$1</subfield>
+      <subfield code="a">根据賈平凹小说"鸡秉O\\!M"!0d'2&gt;" 改'Q.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2="4">
+      <subfield code="6">600-08/$1</subfield>
+      <subfield code="a">賈平凹</subfield>
+      <subfield code="v">FIlm adaptations.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">700-09/$1</subfield>
+      <subfield code="a">顏学恕.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">700-10/$1</subfield>
+      <subfield code="a">竹子.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">700-11/$1</subfield>
+      <subfield code="a">杜原,</subfield>
+      <subfield code="d">1957-</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">700-12/$1</subfield>
+      <subfield code="a">岳紅,</subfield>
+      <subfield code="d">1962-</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">700-13/$1</subfield>
+      <subfield code="a">賅C!.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">700-14/$1</subfield>
+      <subfield code="a">徐守莉,</subfield>
+      <subfield code="d">1959-</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">700-15/$1</subfield>
+      <subfield code="a">许友夫.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="1" ind2=" ">
+      <subfield code="6">700-16/$1</subfield>
+      <subfield code="a">賈平凹.</subfield>
+      <subfield code="t">鸡秉O\\!M"!0d'2&gt;.</subfield>
+    </datafield>
+    <datafield tag="880" ind1="2" ind2=" ">
+      <subfield code="6">710-17/$1</subfield>
+      <subfield code="a">西安电影制片厂.</subfield>
+    </datafield>
+    <datafield tag="880" ind1=" " ind2="0">
+      <subfield code="6">830-18/$1</subfield>
+      <subfield code="a">中国经典电影.</subfield>
+    </datafield>
+    <datafield tag="880" ind1=" " ind2="0">
+      <subfield code="6">830-19/$1</subfield>
+      <subfield code="a">跟我学汉语</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">Z0</subfield>
+      <subfield code="b">VA@</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">3</subfield>
+    </datafield>
+    <datafield tag="999" ind1=" " ind2=" ">
+      <subfield code="a">VIDEO .DVD17055</subfield>
+      <subfield code="w">ALPHANUM</subfield>
+      <subfield code="c">1</subfield>
+      <subfield code="i">X030314709</subfield>
+      <subfield code="d">9/6/2013</subfield>
+      <subfield code="e">9/6/2013</subfield>
+      <subfield code="k">CHECKEDOUT</subfield>
+      <subfield code="l">STACKS</subfield>
+      <subfield code="m">CLEMONS</subfield>
+      <subfield code="r">M</subfield>
+      <subfield code="s">Y</subfield>
+      <subfield code="t">VIDEO-DVD</subfield>
+      <subfield code="u">6/12/2013</subfield>
+      <subfield code="x">MEMBERCOPY</subfield>
+    </datafield>
+  </record>
+</collection>
